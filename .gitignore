@@ -134,3 +134,5 @@ dmypy.json
 #nohup file
 .nohup.out
 
+#db store
+db.sqlite3
